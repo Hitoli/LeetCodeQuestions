@@ -13,10 +13,14 @@
 ![mergesortwithoutextra space](https://github.com/Hitoli/LeetCodeQuestions/assets/97933783/e42184fe-4dc8-4991-b636-45919a082017)
 
 <p>Merge 3 Sorted Arrays</p>
-![merge3sortedarray](https://github.com/Hitoli/LeetCodeQuestions/assets/97933783/d694b187-a26f-43c5-bfef-60df55d845a2)
+
+![merge3sortedarray](https://github.com/Hitoli/LeetCodeQuestions/assets/97933783/3b28c84f-7291-423a-839c-21f661d47d91)
 
 <p>Find Triplets</p>
-![findtriplets](https://github.com/Hitoli/LeetCodeQuestions/assets/97933783/ffab2e97-bd11-483f-804d-fa087d2acf44)
+
+![findtriplets](https://github.com/Hitoli/LeetCodeQuestions/assets/97933783/c19a9fa5-4829-4c66-9eb6-d7ccb5f85cbb)
+
 
 <p>Intersection of two sorted Arrays</p>
+
 ![intersectionoftwosortedarrays](https://github.com/Hitoli/LeetCodeQuestions/assets/97933783/42fdd616-638c-4b9a-828f-cf300aa62fda)
