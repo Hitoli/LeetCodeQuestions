@@ -24,3 +24,7 @@
 <p>Intersection of two sorted Arrays</p>
 
 ![intersectionoftwosortedarrays](https://github.com/Hitoli/LeetCodeQuestions/assets/97933783/42fdd616-638c-4b9a-828f-cf300aa62fda)
+
+<p>Count Inversions</p>
+
+![Screenshot 2023-08-02 111047](https://github.com/Hitoli/LeetCodeQuestions/assets/97933783/96ea40c1-daa4-4eeb-92c8-34a0bee90973)
